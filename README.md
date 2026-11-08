@@ -204,7 +204,7 @@ Upload customer data, estimate subscription probabilities, rank potential subscr
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/paulhbrt/bank-marketing-prediction.git
 cd bank-marketing-prediction
 ```
 
@@ -217,7 +217,7 @@ python -m venv .venv
 On Windows:
 
 ```bash
-.venv\Scripts\activate
+.venv\Scripts\Activate.ps1
 ```
 
 ### 3. Install dependencies
